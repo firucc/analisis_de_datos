@@ -15,17 +15,22 @@ Los datos transformados se insertan en un **Data Warehouse (DW)** OLAP denominad
 ## 🚀 Configuración e instalación
 
 **1. Clona este repositorio:**
-
+```bash
 git clone <URL_DEL_REPOSITORIO>
 cd PROYECTO_ETL
+```
 
 **2. Configura los contenedores Docker: Levanta los servicios definidos en docker-compose.yml:**
 
+```bash
 docker-compose up -d
+```
 
 **3. Verifica que los contenedores estén corriendo:**
 
+```bash
 docker ps
+```
 
 **4. Carga los datos iniciales: Coloca los archivos CSV en la carpeta data/ según el formato esperado.**
 
@@ -38,7 +43,7 @@ docker ps
 - Transformar y limpiar los datos.
 - Insertar los datos en el Data Warehouse OLAP dw_netflix.
 
-```
+```bash
 python scripts/ETL.py
 ```
 
