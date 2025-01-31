@@ -22,16 +22,16 @@ cd PROYECTO_ETL
 2. Configura los contenedores Docker: Levanta los servicios definidos en docker-compose.yml:
 
 docker-compose up -d
-Verifica que los contenedores estén corriendo:
+
+3. Verifica que los contenedores estén corriendo:
+
 docker ps
 
-Asegúrate de que los contenedores de MySQL y cualquier otro servicio estén activos.
-
-3. Carga los datos iniciales: Coloca los archivos CSV en la carpeta data/ según el formato esperado.
+4. Carga los datos iniciales: Coloca los archivos CSV en la carpeta data/ según el formato esperado.
 
 📦 Uso del ETL
 
-4. Ejecuta el script principal: El script ETL.py realizará las siguientes tareas:
+5. Ejecuta el script principal: El script ETL.py realizará las siguientes tareas:
 
 Leer los archivos CSV desde la carpeta data/.
 Extraer datos de la base de datos MySQL del contenedor.
@@ -39,9 +39,12 @@ Transformar y limpiar los datos.
 Insertar los datos en el Data Warehouse OLAP dw_netflix.
 
 Comando:
+
 python scripts/ETL.py
+
 Verifica los logs: El archivo logs/etl_process.log contiene información detallada del proceso ETL.
 
 🗃️ Data Warehouse
+
 El Data Warehouse OLAP está configurado en el contenedor MySQL bajo el esquema dw_netflix. Contiene las tablas necesarias para análisis avanzado y generación de reportes.
 Verifica que las rutas de los archivos CSV sean correctas y que los datos estén completos.
