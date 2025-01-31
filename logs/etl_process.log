@@ -1,0 +1,68 @@
+2025-01-18 23:42:30,807 - INFO - Conexion a la base de datos exitosa
+2025-01-18 23:42:30,808 - INFO - Lectura de la base de datos exitosa
+2025-01-18 23:42:30,808 - INFO - Archivo ./data/Awards_movie.csv leído correctamente con delimitador ','
+2025-01-18 23:42:30,825 - INFO - Conexion a la base de datos exitosa
+2025-01-18 23:42:30,825 - INFO - Conexion a la base de datos exitosa
+2025-01-18 23:42:30,825 - INFO - Lectura de la base de datos exitosa
+2025-01-18 23:42:30,841 - INFO - Inserción de datos a la tabla dimMovie de manera exitosa
+2025-01-18 23:42:30,841 - INFO - Archivo ./data/users.csv leído correctamente con delimitador '|'
+2025-01-18 23:42:30,841 - INFO - Conexion a la base de datos exitosa
+2025-01-18 23:42:30,858 - INFO - Conexion a la base de datos exitosa
+2025-01-18 23:42:30,858 - INFO - Lectura de la base de datos exitosa
+2025-01-18 23:42:30,858 - INFO - Inserción de datos a la tabla dimUser de manera exitosa
+2025-01-18 23:42:30,876 - INFO - Conexion a la base de datos exitosa
+2025-01-18 23:42:30,891 - INFO - Conexion a la base de datos exitosa
+2025-01-18 23:42:30,891 - INFO - Lectura de la base de datos exitosa
+2025-01-18 23:42:30,891 - INFO - Inserción de datos a la tabla FactWatchs de manera exitosa
+2025-01-18 23:42:30,907 - INFO - Proceso etl se ejecuto correctamente
+2025-01-18 23:45:51,802 - INFO - Conexion a la base de datos exitosa
+2025-01-18 23:45:51,810 - INFO - Lectura de la base de datos exitosa
+2025-01-18 23:45:51,817 - INFO - Archivo ./data/Awards_movie.csv leído correctamente con delimitador ','
+2025-01-18 23:45:51,820 - INFO - Conexion a la base de datos exitosa
+2025-01-18 23:45:51,836 - INFO - Conexion a la base de datos exitosa
+2025-01-18 23:45:51,836 - INFO - Lectura de la base de datos exitosa
+2025-01-18 23:45:51,852 - INFO - Inserción de datos a la tabla dimMovie de manera exitosa
+2025-01-18 23:45:51,852 - INFO - Archivo ./data/users.csv leído correctamente con delimitador '|'
+2025-01-18 23:45:51,852 - INFO - Conexion a la base de datos exitosa
+2025-01-18 23:45:51,868 - INFO - Conexion a la base de datos exitosa
+2025-01-18 23:45:51,868 - INFO - Lectura de la base de datos exitosa
+2025-01-18 23:45:51,868 - INFO - Inserción de datos a la tabla dimUser de manera exitosa
+2025-01-18 23:45:51,885 - INFO - Conexion a la base de datos exitosa
+2025-01-18 23:45:51,894 - INFO - Conexion a la base de datos exitosa
+2025-01-18 23:45:51,894 - INFO - Lectura de la base de datos exitosa
+2025-01-18 23:45:51,903 - INFO - Inserción de datos a la tabla FactWatchs de manera exitosa
+2025-01-18 23:45:51,903 - INFO - Proceso etl se ejecuto correctamente
+2025-01-18 23:46:07,468 - INFO - Conexion a la base de datos exitosa
+2025-01-18 23:46:07,468 - INFO - Lectura de la base de datos exitosa
+2025-01-18 23:46:07,484 - INFO - Archivo ./data/Awards_movie.csv leído correctamente con delimitador ','
+2025-01-18 23:46:07,501 - INFO - Conexion a la base de datos exitosa
+2025-01-18 23:46:07,509 - INFO - Conexion a la base de datos exitosa
+2025-01-18 23:46:07,517 - INFO - Lectura de la base de datos exitosa
+2025-01-18 23:46:07,520 - INFO - Inserción de datos a la tabla dimMovie de manera exitosa
+2025-01-18 23:46:07,529 - INFO - Archivo ./data/users.csv leído correctamente con delimitador '|'
+2025-01-18 23:46:07,539 - INFO - Conexion a la base de datos exitosa
+2025-01-18 23:46:07,546 - INFO - Conexion a la base de datos exitosa
+2025-01-18 23:46:07,546 - INFO - Lectura de la base de datos exitosa
+2025-01-18 23:46:07,551 - INFO - Inserción de datos a la tabla dimUser de manera exitosa
+2025-01-18 23:46:07,568 - INFO - Conexion a la base de datos exitosa
+2025-01-18 23:46:07,575 - INFO - Conexion a la base de datos exitosa
+2025-01-18 23:46:07,575 - INFO - Lectura de la base de datos exitosa
+2025-01-18 23:46:07,584 - INFO - Inserción de datos a la tabla FactWatchs de manera exitosa
+2025-01-18 23:46:07,584 - INFO - Proceso etl se ejecuto correctamente
+2025-01-30 21:04:27,297 - INFO - Conexion a la base de datos exitosa
+2025-01-30 21:04:27,328 - INFO - Lectura de la base de datos exitosa
+2025-01-30 21:04:27,359 - INFO - Archivo ./data/Awards_movie.csv leído correctamente con delimitador ','
+2025-01-30 21:04:27,376 - INFO - Conexion a la base de datos exitosa
+2025-01-30 21:04:27,396 - INFO - Conexion a la base de datos exitosa
+2025-01-30 21:04:27,405 - INFO - Lectura de la base de datos exitosa
+2025-01-30 21:04:27,416 - INFO - Inserción de datos a la tabla dimMovie de manera exitosa
+2025-01-30 21:04:27,426 - INFO - Archivo ./data/users.csv leído correctamente con delimitador '|'
+2025-01-30 21:04:27,436 - INFO - Conexion a la base de datos exitosa
+2025-01-30 21:04:27,436 - INFO - Conexion a la base de datos exitosa
+2025-01-30 21:04:27,446 - INFO - Lectura de la base de datos exitosa
+2025-01-30 21:04:27,450 - INFO - Inserción de datos a la tabla dimUser de manera exitosa
+2025-01-30 21:04:27,460 - INFO - Conexion a la base de datos exitosa
+2025-01-30 21:04:27,466 - INFO - Conexion a la base de datos exitosa
+2025-01-30 21:04:27,476 - INFO - Lectura de la base de datos exitosa
+2025-01-30 21:04:27,499 - INFO - Inserción de datos a la tabla FactWatchs de manera exitosa
+2025-01-30 21:04:27,500 - INFO - Proceso etl se ejecuto correctamente
